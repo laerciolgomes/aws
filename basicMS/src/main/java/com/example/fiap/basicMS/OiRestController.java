@@ -20,7 +20,8 @@ public class OiRestController {
 		{
 			hostname = "unknown";
 		}
-		return "oi spring break, chupaaaaaaa!" + hostname;
+		return "oi spring break, chupaaaaaaa! CONFIGURADO NO GIT...." + hostname;
+		
 	}
 
 }
